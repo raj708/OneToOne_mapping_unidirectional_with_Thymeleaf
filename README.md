@@ -9,7 +9,7 @@ git clone https://github.com/raj708/OneToOne_mapping_unidirectional_with_Thymele
 1. Make sure you have Java 8 or higher installed.
 ## Usage
 1. Run the Spring Boot application.
-2. Navigate to http://localhost:7878/addDetails in your web browser.
+2. Navigate to http://localhost:7777/addDetails in your web browser.
 3. The user details, along with the associated address details, will be save into the database.
 ## Entity Relationship
 The project defines two entities: Person and Address.
